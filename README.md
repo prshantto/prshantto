@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prashant Singh
 - 👀 I’m interested in Web Developing and related stuff
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on mern stack websites and related projects.
 - 📫 How to reach me ...just text/dm me on @prshantto 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: nothing funny 🫤
