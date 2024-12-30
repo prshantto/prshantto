@@ -39,7 +39,7 @@ I'm a passionate **💻 Full Stack Developer** with a knack for creating dynamic
 #### 🚀 Let's Build Together  
 If you’re a recruiter or a fellow developer looking for a passionate and skilled 💻 collaborator, **let’s connect and create something impactful!** 🌟  
 
----
+<!---
 
 #### 📈 GitHub Stats
 <p align="center">
@@ -54,6 +54,8 @@ If you’re a recruiter or a fellow developer looking for a passionate and skill
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prshantto&theme=tokyonight" alt="GitHub Contribution Graph" width="90%" height="200" />
 </p>
+
+--->
 
 <!---
 prshantto/prshantto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
