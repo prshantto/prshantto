@@ -33,7 +33,7 @@ I'm a passionate **💻 Full Stack Developer** with a knack for creating dynamic
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prshantto&layout=compact&theme=radical" alt="Top Languages" width="45%" height="200" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prshantto&theme=radical" alt="GitHub Streak" width="80%" height="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prshantto&theme=radical" alt="GitHub Streak" width="60%" height="200" />
 </p>
 
 ---
