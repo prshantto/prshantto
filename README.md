@@ -29,12 +29,11 @@ I'm a passionate **💻 Full Stack Developer** with a knack for creating dynamic
 
 #### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prshantto&show_icons=true&theme=radical" alt="Prashant's GitHub stats" width="60%" height="200" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prshantto&layout=compact&theme=radical" alt="Top Languages" width="60%" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prshantto&theme=radical" alt="GitHub Streak" width="60%" height="200" />
-</p>
-<p align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=prshantto&show_icons=true&theme=radical&hide_title=true&hide_border=true" alt="Prashant's GitHub stats" width="45%" height="250" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prshantto&layout=compact&theme=radical&hide_title=true&hide_border=true" alt="Top Languages" width="45%" height="250" /> 
+</p> 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prshantto&theme=radical&hide_title=true&hide_border=true" alt="GitHub Streak" width="90%" height="250" /> 
 </p>
 
 ---
