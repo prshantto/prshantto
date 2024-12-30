@@ -27,6 +27,19 @@ I'm a passionate **💻 Full Stack Developer** with a knack for creating dynamic
 
 ---
 
+#### 📫 Connect With Me  
+- 🐦 Twitter: [@prshantto](https://twitter.com/prshantto)  
+- 🐙 GitHub: [github.com/prshantto](https://github.com/prshantto)  
+- ✉️ Email: [prshantsingh307@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWstsCWNhLPSMLBSHMDQhrwDDMZQCMSfGWNnZrVmBjLQQqWvXQhhDMntBPMRmgPsBwdSkfkRb)
+- 🔗 LinkedIn: [Prashant Singh](https://www.linkedin.com/in/prashant-singh-5a2b7128b/) 
+
+---
+
+#### 🚀 Let's Build Together  
+If you’re a recruiter or a fellow developer looking for a passionate and skilled 💻 collaborator, **let’s connect and create something impactful!** 🌟  
+
+---
+
 #### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prshantto&show_icons=true&theme=radical" alt="Prashant's GitHub stats" width="45%" height="200" />
@@ -40,22 +53,6 @@ I'm a passionate **💻 Full Stack Developer** with a knack for creating dynamic
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prshantto&theme=tokyonight" alt="GitHub Contribution Graph" width="90%" height="200" />
 </p>
-
-
----
-
-#### 📫 Connect With Me  
-- 🐦 Twitter: [@prshantto](https://twitter.com/prshantto)  
-- 🐙 GitHub: [github.com/prshantto](https://github.com/prshantto)  
-- ✉️ Email: [prshantsingh307@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWstsCWNhLPSMLBSHMDQhrwDDMZQCMSfGWNnZrVmBjLQQqWvXQhhDMntBPMRmgPsBwdSkfkRb)
-- 🔗 LinkedIn: [Prashant Singh](https://www.linkedin.com/in/prashant-singh-5a2b7128b/) 
-
----
-
-#### 🚀 Let's Build Together  
-If you’re a recruiter or a fellow developer looking for a passionate and skilled 💻 collaborator, **let’s connect and create something impactful!** 🌟  
-
----
 
 <!---
 prshantto/prshantto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
