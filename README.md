@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Prashant Singh
 
-I'm a passionate **💻 Full Stack Developer** with a knack for creating dynamic 🌐 and user-friendly 🖥️ web applications. I specialize in building end-to-end 🔄 solutions using modern web technologies. Here's a bit more about me:
+I’m a passionate 💻 Full Stack Developer who loves building dynamic, user-friendly web applications 🖥️. I am specialized in making full-stack web applications using the MERN stack. I’m quite familiar with Node.js and Express for backend servers and React and Next.js for frontend development. My goal is to create seamless and intuitive user experiences while staying up-to-date with the latest tools and trends 🌐.
 
 ---
 
