@@ -4,6 +4,9 @@ I’m a passionate 💻 Full Stack Developer who loves building dynamic, user-fr
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=prshantto&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/prshantto?label=Followers&style=flat&color=0e75b6)
+
 #### 🌟 About Me  
 - 🔭 **Currently Exploring:** Advanced concepts in the **MERN Stack**  
 - 🌱 **Skills & Expertise:**  
