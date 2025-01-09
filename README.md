@@ -43,14 +43,14 @@ I’m a passionate 💻 Full Stack Developer who loves building dynamic, user-fr
 If you’re a recruiter or a fellow developer looking for a passionate and skilled 💻 collaborator, **let’s connect and create something impactful!** 🌟  
 
 
-
+<!---
 #### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prshantto&show_icons=true&theme=radical" alt="Prashant's GitHub stats" width="45%" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prshantto&layout=compact&theme=radical" alt="Top Languages" width="45%" height="200" />
 </p>
 
-<!---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prshantto&theme=radical" alt="GitHub Streak" width="90%" height="200" />
 </p>
